@@ -1,5 +1,7 @@
 # Data-Structures-Algorithms
 
+> **Note:** I started keeping this list on 03/08/2026. It reflects my most recent progress, not the total number of exercises I have completed.
+
 **Legend:** ✅ solved with best solution · ⚠️ solved, best solution pending · ❌ not solved
 
 ## Google Interview List
