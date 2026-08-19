@@ -1,5 +1,7 @@
 # Data-Structures-Algorithms
 
+**Legend:** ✅ solved with best solution · ⚠️ solved, best solution pending · ❌ not solved
+
 ## Google Interview List
 
 ### Arrays and Strings
@@ -53,4 +55,3 @@
 | LC-0246 | `Easy` | Strobogrammatic Number | 03/08/2026 | ✅ | 12 min | `Two Pointers` `Hash Table` `String` | Two Pointers ✅ | Make a Rotated Copy ❌  | Code can be written in 2 lines |
 | LC-0299 | `Medium` | Bulls and Cows | 08/08/2026 | ⚠️ | 17 min | `Hash Table` | One Pass ❌ | HashMap: Two Passes ✅ | When the number of characters is constrained don't use a hashmap use a List|
 
-**Legend:** ✅ solved with best solution · ⚠️ solved, best solution pending · ❌ not solved
