@@ -44,6 +44,7 @@
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0022 | `Medium` | Generate Parentheses | 08/08/2026 | ⚠️ | 12 min | `Backtracking` `DP` | Backtracking Keep Candidate Valid ✅ | Brute Force ❌, Divide and Conquer ❌ | Catalan Number for complexity ⚠️ |
+| LC-0425 | `Hard` | Word Squares | 22/08/2026 | ❌ | 50 min | `Backtracking` | Backtracking with Trie ❌ | Backtracking ✅, Backtracking with HashTable ❌ | |
 
 ### Design
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
