@@ -56,6 +56,7 @@
 ### Others
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
 |---|---|---|---|---|---|---|---|---|---|
+| LC-0135 | `Hard` | Candy | 23/08/2026 | ⚠️ | 50 min | `Array` `Greedy` | Single Pass Approach with Constant Space ❌ | Using two arrays ✅  BF ✅| |
 | LC-0205 | `Easy` | Isomorphic Strings | 09/08/2026 | ✅ | 11 min | `String` `Hast Table` | Character Mapping with Dictionary ✅ | First occurence transformation ❌ | Use s_t = [None] * 128 and ord('a') for ASCII dictionaries |
 | LC-0246 | `Easy` | Strobogrammatic Number | 03/08/2026 | ✅ | 12 min | `Two Pointers` `Hash Table` `String` | Two Pointers ✅ | Make a Rotated Copy ❌  | Code can be written in 2 lines |
 | LC-0299 | `Medium` | Bulls and Cows | 08/08/2026 | ⚠️ | 17 min | `Hash Table` | One Pass ❌ | HashMap: Two Passes ✅ | When the number of characters is constrained don't use a hashmap use a List|
