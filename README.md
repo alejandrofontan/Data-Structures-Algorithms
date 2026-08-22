@@ -21,6 +21,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0124 | `Hard` | Binary Tree Maximum Path Sum | 17/08/2026 | ✅ | 17 min | `DP` `DFS` `Binary Tree` | Post Order DFS ✅ | | |
 | LC-0127 | `Hard` | Word Ladder | 17/08/2026 | ✅ | 40 min | `BFS` `Bidirectional Search` | BFS ✅ |  Bidirectional BFS ❌ |  |
+| LC-0200 | `Medium` | Number of Islands | 22/08/2026 | ⚠️ | 50 min | `Union-Find` `DFS` `BFS` | Union-Find ❌ |  DFS ✅ BFS ✅ |  |
 | LC-0394 | `Medium` | Decode String | 15/08/2026 | ❌ | x min | `Stack` `Recursion` | Recursion ❌ | Using Stack ❌ Using 2 Stack ❌ | |
 | LC-0399 | `Medium` | Evaluate Division | 07/08/2026 | ⚠️ | 50 min | `DFS` `Union-Find` | Union-Find with Weights ❌ | Path Search in Graph ✅ | |
 | LC-0543 | `Easy` | Diameter of Binary Tree | 10/08/2026 | ✅ | 15 min | `Binary Tree` `DFS` | Depth-first Search ✅ |   | |
