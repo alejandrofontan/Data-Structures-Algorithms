@@ -50,6 +50,7 @@
 ### Design
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
 |---|---|---|---|---|---|---|---|---|---|
+| LC-0297 | `Hard` | Serialize and Deserialize Binary Tree | 23/08/2026 | ✅ | 50 min | `BFS` `DFS` `Binary Tree` | BFS ✅ | DFS ❌ | Use `"*".join(output)`, `tokens = iter(data.split("*")), val = next(tokens)` |
 | LC-0359 | `Easy` | Logger Rate Limiter | 15/08/2026 | ⚠️ | 9 min | `Hash Table` | Queue + Set ❌ Hashtable / Dictionary ✅ |   | Use .get() for Hash Tables|
 
 ### Others
