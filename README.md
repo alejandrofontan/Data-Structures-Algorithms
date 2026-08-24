@@ -61,3 +61,16 @@
 | LC-0246 | `Easy` | Strobogrammatic Number | 03/08/2026 | ✅ | 12 min | `Two Pointers` `Hash Table` `String` | Two Pointers ✅ | Make a Rotated Copy ❌  | Code can be written in 2 lines |
 | LC-0299 | `Medium` | Bulls and Cows | 08/08/2026 | ⚠️ | 17 min | `Hash Table` | One Pass ❌ | HashMap: Two Passes ✅ | When the number of characters is constrained don't use a hashmap use a List|
 
+## Detailed Explanation of Graph
+
+### Disjoint Set / Union-Find (5/7 Exercises)
+| # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| LC-0261 | `Medium` | Graph Valid Tree | 24/08/2026 | ✅ | 30 min | `Union-Find` `BFS` `DFS` | Union-Find ✅ | BFS ❌ DFS ❌ | A graph with n nodes is a tree if and only if it has exactly n - 1 edges and is fully connected |
+| LC-0323 | `Medium` | Number of Connected Components in an Undirected Graph | 24/08/2026 | ✅ | 8 min | `Union-Find` `BFS` `DFS` | Union-Find ✅ | DFS ❌ | Use Quick Union + Path Halving + Union By Rank |
+| LC-0399 | `Hard` | Evaluate Division | 24/08/2026 | ❌ | ? min | `Union-Find` `BFS` `DFS` |  |   |  |
+| LC-0547 | `Medium` | Number of Provinces | 24/08/2026 | ✅ | 20 min | `Union-Find` `BFS` `DFS` | Union-Find ✅ | DFS ❌ | Use Quick Union + Path Halving + Union By Rank |
+| LC-1101 | `Medium` | The Earliest Moment When Everyone Become Friends | 24/08/2026 | ✅ | 18 min | `Union-Find` `Sorting` | Union-Find ✅ |  |  |
+| LC-1102 | `Medium` | Smallest String With Swaps | 24/08/2026 | ✅ | 25 min | `Union-Find` `Sorting` `BFS` `DFS` | Union-Find ✅ | DFS ❌  | Use `output = list(s)`, `''.join(output)` and `chars_sorted = sorted(output[i] for i in indices)`  |
+| LC-1168 | `Hard` | Optimize Water Distribution in a Village | 24/08/2026 | ❌ | ? min | `Union-Find` |  |   |  |
+
