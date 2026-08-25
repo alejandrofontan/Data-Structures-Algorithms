@@ -23,7 +23,9 @@
 | LC-0124 | `Hard` | Binary Tree Maximum Path Sum | 17/08/2026 | ✅ | 17 min | `DP` `DFS` `Binary Tree` | Post Order DFS ✅ | | |
 | LC-0127 | `Hard` | Word Ladder | 17/08/2026 | ✅ | 40 min | `BFS` `Bidirectional Search` | BFS ✅ |  Bidirectional BFS ❌ |  |
 | LC-0200 | `Medium` | Number of Islands | 22/08/2026 | ⚠️ | 50 min | `Union-Find` `DFS` `BFS` | Union-Find ❌ |  DFS ✅ BFS ✅ |  |
-| LC-0394 | `Medium` | Decode String | 15/08/2026 | ❌ | x min | `Stack` `Recursion` | Recursion ❌ | Using Stack ❌ Using 2 Stack ❌ | |
+| LC-0210 | `Medium` | Course Schedule II | 26/08/2026 | ✅ | 20 min | `DFS` `BFS` | Using Node Indegree ✅ |  DFS ❌ BFS ✅ |  |
+| LC-0329 | `Hard` | Longest Increasing Path in a Matrix | 26/08/2026 | ⚠️ | 45 min | `DP` `DFS` `BFS` | DFS + Memoization ✅ Peeling Onion ❌ |  Naive DFS ❌ |  |
+| LC-0394 | `Medium` | Decode String | 15/08/2026 | ❌ | ❌ min | `Stack` `Recursion` | Recursion ❌ | Using Stack ❌ Using 2 Stack ❌ | |
 | LC-0399 | `Medium` | Evaluate Division | 07/08/2026 | ⚠️ | 50 min | `DFS` `Union-Find` | Union-Find with Weights ❌ | Path Search in Graph ✅ | |
 | LC-0543 | `Easy` | Diameter of Binary Tree | 10/08/2026 | ✅ | 15 min | `Binary Tree` `DFS` | Depth-first Search ✅ |   | |
 | LC-0947 | `Medium` | Most Stones Removed with Same Row or Column | 08/08/2026 | ❌ | 20 min | `Union-Find` `DFS` | Disjoint Set Union (Optimized) ❌ | Depth First Search ❌, Disjoint Set Union ❌ |  |
@@ -34,6 +36,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0005 | `Medium` | Longest Palindromic Substring | 15/08/2026 | ⚠️ | 30 min | `Two Pointers` `DP` | Expand From Centers ✅ Manacher's Algorithm ❌ | Dynamic Programming ❌ Check All Substrings ❌ | |
 | LC-0053 | `Medium` | Maximum Subarray | 18/08/2026 | ⚠️ | 50 min | `DP` `Divide and Conquer` | Kadane's Algorithm ❌ | Divide and Conquer ✅  Optimized Brute Force ✅ | |
+| LC-0410 | `Hard` | Split Array Largest Sum | 26/08/2026 | ❌ | ❌ min | `DP` `Array` ||  | |
 
 ### Sorting and Searching
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
