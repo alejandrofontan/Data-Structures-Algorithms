@@ -15,6 +15,7 @@
 | LC-0055 | `Medium` | Jump Game | 15/08/2026 | ✅ | 32 min | `DP` `Array` | Greedy ✅ | Backtracking ✅ DP Top-down ✅ DP Bottom-up ✅| ⚠️TC and SC |
 | LC-0163 | `Easy` | Missing Ranges | 08/08/2026 | ✅ | 7 min | `Array` | Linear Scan ✅ |  | |
 | LC-0681 | `Medium` | Next Closest Time | 14/08/2026 | ✅ | 40 min | `Backtracking` | Build From Allowed Digits ✅ | Simulation ❌  | Use nonlocal variable, to define variables in recursive functions|
+| LC-0857 | `Hard` | Minimum Cost to Hire K Workers | 25/08/2026 | ❌ | x min | `Array` `Sorting` | Priority Queue ❌ | BF ✅  | |
 
 ### Trees and Graphs
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
