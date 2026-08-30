@@ -37,6 +37,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0005 | `Medium` | Longest Palindromic Substring | 15/08/2026 | ⚠️ | 30 min | `Two Pointers` `DP` | Expand From Centers ✅ Manacher's Algorithm ❌ | Dynamic Programming ❌ Check All Substrings ❌ | |
 | LC-0053 | `Medium` | Maximum Subarray | 18/08/2026 | ⚠️ | 50 min | `DP` `Divide and Conquer` | Kadane's Algorithm ❌ | Divide and Conquer ✅  Optimized Brute Force ✅ | |
+| LC-0152 | `Medium` | Maximum Product Subarray | 31/08/2026 | ✅ | 35 min | `DP` `Array` | Space-optimized DP ✅ | Brute Force ✅ | |
 | LC-0410 | `Hard` | Split Array Largest Sum | 26/08/2026 | ❌ | ❌ min | `DP` `Array` ||  | |
 
 ### Sorting and Searching
