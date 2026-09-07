@@ -25,12 +25,16 @@
 | LC-0127 | `Hard` | Word Ladder | 17/08/2026 | ✅ | 40 min | `BFS` `Bidirectional Search` | BFS ✅ |  Bidirectional BFS ❌ |  |
 | LC-0200 | `Medium` | Number of Islands | 22/08/2026 | ⚠️ | 50 min | `Union-Find` `DFS` `BFS` | Union-Find ❌ |  DFS ✅ BFS ✅ |  |
 | LC-0210 | `Medium` | Course Schedule II | 26/08/2026 | ✅ | 20 min | `DFS` `BFS` | Using Node Indegree ✅ |  DFS ❌ BFS ✅ |  |
+| LC-0222 | `Medium` | Count Complete Tree Nodes | 07/09/2026 | ⚠️ | 40 min | `Binary Tree` `Binary Search` | Binary search ❌ | Spine Comparison ✅ Linear Time ✅ |  |
 | LC-0329 | `Hard` | Longest Increasing Path in a Matrix | 26/08/2026 | ⚠️ | 45 min | `DP` `DFS` `BFS` | DFS + Memoization ✅ Peeling Onion ❌ |  Naive DFS ❌ |  |
 | LC-0394 | `Medium` | Decode String | 15/08/2026 | ❌ | ❌ min | `Stack` `Recursion` | Recursion ❌ | Using Stack ❌ Using 2 Stack ❌ | |
 | LC-0399 | `Medium` | Evaluate Division | 07/08/2026 | ⚠️ | 50 min | `DFS` `Union-Find` | Union-Find with Weights ❌ | Path Search in Graph ✅ | |
 | LC-0543 | `Easy` | Diameter of Binary Tree | 10/08/2026 | ✅ | 15 min | `Binary Tree` `DFS` | Depth-first Search ✅ |   | |
+| LC-0753 | `Hard` | Cracking the safe | 07/09/2026 | ⚠️ | 50 min | `DFS` `Graph Theory`  | IBWT ❌ | Hierholzer's ❌ Greedy Pre-order Edge DFS ✅  | Bruijn graph for alphabet size k and window length n, pre-order/post-order, Eulerian circuit/path/graph |
 | LC-0947 | `Medium` | Most Stones Removed with Same Row or Column | 08/08/2026 | ❌ | 20 min | `Union-Find` `DFS` | Disjoint Set Union (Optimized) ❌ | Depth First Search ❌, Disjoint Set Union ❌ |  |
 | LC-0951 | `Medium` | Flip Equivalent Binary Trees | 08/08/2026 | ✅ | 21 min | `Binary Tree` `Tree` | Recursion (Top-down Traversal) ✅ |  Iterative DFS (using a Stack) ❌, Canonical Forms ❌ | The UNIQUENESS of the values of the tree is key for the performance. Optimal solution has **STACK OVERFLOW** risk. |
+
+Robot Room Cleaner
 
 ### Dynamic Programming
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
