@@ -11,12 +11,29 @@
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0003 | `Medium` | Longest Substring Without Repeating Characters | 15/08/2026 | ✅ | 21 min | `Sliding Window` | Sliding Window Optimized ✅ | Brute Force ❌ Sliding Window ❌ | When the number of characters is constrained don't use a hashmap use a List |
 | LC-0011 | `Medium` | Container With Most Water | 08/08/2026 | ✅ | 10 min | `Two Pointers` `Array` | Two Pointer Approach ✅ | Brute Force ✅ | |
-| LC-0043 | `Medium` | Multiply Strings | 15/08/2026 | ❌ | ❌ min | `Math` `Strings` || ||
+| LC-0042 | `Hard` | Trapping Rain Water | 10/09/2026 | ⚠️ | 50 min | `Array` `DP` `Two Pointers` `Stack` | Two pointers ❌| Stack ❌ DP ✅ Brute force ✅ | |
+| LC-0043 | `Medium` | Multiply Strings | 15/08/2026 | ❌ | ❌ min | `Math` `Strings` | | | |
 | LC-0055 | `Medium` | Jump Game | 15/08/2026 | ✅ | 32 min | `DP` `Array` | Greedy ✅ | Backtracking ✅ DP Top-down ✅ DP Bottom-up ✅| ⚠️TC and SC |
 | LC-0163 | `Easy` | Missing Ranges | 08/08/2026 | ✅ | 7 min | `Array` | Linear Scan ✅ |  | |
 | LC-0681 | `Medium` | Next Closest Time | 14/08/2026 | ✅ | 40 min | `Backtracking` | Build From Allowed Digits ✅ | Simulation ❌  | Use nonlocal variable, to define variables in recursive functions|
 | LC-0833 | `Medium` | Find And Replace in String | 31/08/2026 | ✅ | 25 min |  `Array` `Hash Table` | Hash Table ✅ |   | |
 | LC-0857 | `Hard` | Minimum Cost to Hire K Workers | 25/08/2026 | ❌ | x min | `Heap` `Array` `Sorting` | Priority Queue ❌ | BF ✅  | |
+
+3Sum
+Next Permutation
+Rotate Image
+Plus One
+Minimum Window Substring
+Read N Characters Given
+Longest substring with At ...
+Expressive words
+Maximize Distance to Clo ...
+Valid Parentheses
+Merge K Sorted LIsts
+Kth Largest Element in an ...
+Meeting Rooms II
+Backspace String Compare
+K Closest Points to Origin
 
 ### Trees and Graphs
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
@@ -49,7 +66,12 @@ Robot Room Cleaner
 |---|---|---|---|---|---|---|---|---|---|
 | LC-0004 | `Hard` | Median of Two Sorted Arrays | 18/08/2026 | ❌ | 50 min | `Binary Search` `Divide and Conquer` | A Better Binary Search ❌ | Merge Sort ❌  Binary Search ❌ | |
 | LC-0056 | `Medium` | Merge Intervals | 09/08/2026 | ✅ | 13 min | `Sorting` `Array` | Sorting ✅ | Connected Components ❌ | TC and SP come from sorting |
+| LC-0057 | `Medium` | Insert Interval | 10/09/2026 | ✅ | 50 min | `Array` | Linear Search ✅ | Binary Search ❌ |  |
 | LC-0852 | `Medium` | Peak Index in a Mountain Array | 10/08/2026 | ✅ | 12 min | `Binary Search` `Array` | Binary Search ✅ | Linear Scan ❌ | Use int division for binary search while i < j: mid = (i + j) // 2 |
+
+Find First and Last Position of Element in Sorted Array
+Valid Anagram
+Counter of Smaller Numbers After Self
 
 ### Recursion
 | # | Difficulty | Name | Last Attempt | Status | Best Time | Labels | Optimal | Others | Comments |
